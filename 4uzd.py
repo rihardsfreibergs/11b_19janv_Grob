@@ -19,3 +19,4 @@ if __name__ == "__main__":
     paplasinajums = input("Ievadiet faila paplašinājumu (piemēram, 'txt'): ")
 
     lasit_un_drukat_failu(nosaukums, paplasinajums)
+    

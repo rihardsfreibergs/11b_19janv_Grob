@@ -21,3 +21,4 @@ def lasit_otro_kolonnu(csv_fails):
 
 
 lasit_otro_kolonnu('fails.csv')
+

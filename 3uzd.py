@@ -17,3 +17,4 @@ def lasit_un_drukat(faila_nosaukums):
 
 
 lasit_un_drukat('3uzdteksts.txt')
+

@@ -12,3 +12,4 @@ def LasaUnDruka(faila_nosaukums):
         print(f"Kļūda: {e}")
 
 LasaUnDruka('dokuments.txt')
+

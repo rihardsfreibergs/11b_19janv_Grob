@@ -19,3 +19,4 @@ if __name__ == "__main__":
     vards = input("Ievadiet savu vārdu: ")
 
     vardsfaila(vards)
+    
