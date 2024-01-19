@@ -4,6 +4,7 @@ Darbs ar datnēm
 
 
 
+
 Uzmanīgi lasīt uzdevumus un pildīt! Nepieciešamie faili ir jāveido pašiem, kā arī saturs. IEVĒRO – mainīgo un failu nosaukumus jāizdomā Tev!
 
 Izveidot Python programmu, kas nolasītu un izdrukātu visu teksta faila saturu (txt formātā). (3 punkti)
